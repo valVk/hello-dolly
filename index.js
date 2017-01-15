@@ -32,4 +32,4 @@ Dolly'll never go away again`;
   return lines[Math.floor(Math.random()*lines.length)];
 }
 
-console.log(helloDolly());
+module.exports = helloDolly();
