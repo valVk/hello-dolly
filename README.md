@@ -1,0 +1,1 @@
+Just a simple copy from Wordpress plugin.
