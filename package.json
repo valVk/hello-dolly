@@ -1,0 +1,15 @@
+{
+  "name": "hello-dolly",
+  "version": "1.0.0",
+  "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hello",
+    "Dolly"
+  ],
+  "author": "Valeriy Ilihmetov",
+  "license": "ISC"
+}
